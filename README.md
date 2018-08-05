@@ -38,7 +38,7 @@ structure, hierarchy, and meaning &mdash; the "marking-up" of content.
 Questions in the mind of an HTML author are:
 
 * Is it best to list these members' names with numbers, or bullets?
-* Does this menu belong in in the navigation in the header?
+* Does this menu belong in the navigation in the header?
 * Should this additional reference be an aside, or a separate section?
 
 These questions deal with structure, hierarchy, and meaning, which are
@@ -86,7 +86,7 @@ Selectors can appear a few different ways:
   with class of `.infobox`)
 
 For example if you want the body of the page to have a black background, your
-selector syntax may be `html` or `body`. For anchors, you selector would be
+selector syntax may be `html` or `body`. For anchors, your selector would be
 `a`. A few more examples are listed below:
 
 ```css
